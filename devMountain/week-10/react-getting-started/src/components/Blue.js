@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 
 export default class Blue extends Component {
-    // how to create state
-    // how to edit state
+    
 constructor() {
     super()
     this.state = {
